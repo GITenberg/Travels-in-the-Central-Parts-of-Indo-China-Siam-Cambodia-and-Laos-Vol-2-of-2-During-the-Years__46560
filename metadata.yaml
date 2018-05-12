@@ -1,4 +1,5 @@
 _repo: Travels-in-the-Central-Parts-of-Indo-China-Siam-Cambodia-and-Laos-Vol-2-of-2-During-the-Years__46560
+_version: 0.1.0
 contributor:
   creator:
     editor:
@@ -7,15 +8,15 @@ contributor:
       url: http://www.gutenberg.org/2009/agents/43849
 covers:
 - cover_type: archival
-  image_path: 46560/46560-h/images/cover.jpg
-  rights: Public domain in the USA.
-  rights_url: http://creativecommons.org/about/pdm
+  image_path: 46560-h/images/cover.jpg
 creator:
   author:
     agent_name: Mouhot, Henri
     gutenberg_agent_id: '43848'
     url: http://www.gutenberg.org/2009/agents/43848
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/46560#Travels-in-the-Central-Parts-of-Indo-China-Siam-Cambodia-and-Laos-Vol-2-of-2-During-the-Years_
 gutenberg_issued: '2014-08-11'
 gutenberg_type: Text
 identifiers:
